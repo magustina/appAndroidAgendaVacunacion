@@ -253,7 +253,7 @@ public class HijosActivity extends AppCompatActivity implements View.OnClickList
                     System.out.println("Vision "+json.getString("fecha"));
                     System.out.println("Wanda "+json.getInt("estado"));
                     System.out.println("forever  "+hoy);
-                    if(json.getInt("estado") == 1 && hoy.getYear() == fecha_vac.getYear() && hoy.getMonth() == fecha_vac.getMonth() && (hoy.getDate()+2) >= fecha_vac.getDate()){
+                    if(json.getInt("estado") == 0 && hoy.getYear() == fecha_vac.getYear() && hoy.getMonth() == fecha_vac.getMonth() && (hoy.getDate()+2) >= fecha_vac.getDate()){
                         firstText = jsonHijo.getInt("idHijo");
                         secondText = jsonHijo.getString("cedula");
                         thirdText = jsonHijo.getString("nombre");
