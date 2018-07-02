@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "350622481195",
+    "firebase_url": "https://ferrous-griffin-208923.firebaseio.com",
+    "project_id": "ferrous-griffin-208923",
+    "storage_bucket": "ferrous-griffin-208923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350622481195:android:1874623799653d9b",
+        "android_client_info": {
+          "package_name": "fpuna.com.py.appis02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350622481195-40u25c551oqqebcs318i8e9hdf141bj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fpuna.com.py.appis02",
+            "certificate_hash": "9372db53eb43d193d821a37b40640394f4fcbf1a"
+          }
+        },
+        {
+          "client_id": "350622481195-co08g6fmq6o3jjs24re8vnm613oh4ui3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8frWXjMOXijrX4DUG6VfNKTYIw14ZZ7g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350622481195-co08g6fmq6o3jjs24re8vnm613oh4ui3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
